@@ -1,11 +1,11 @@
 # Site settings
 author: Benjamin Anderson
-title: 
+title: A Blog of Thoughts through Bootcamp
 header-img: img/home-bg.png
 email: benjaminghray@gmail.com
 copyright_name: Benjamin Anderson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Thoughts through Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  benjaminghray
